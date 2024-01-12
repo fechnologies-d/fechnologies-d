@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fechnologies-d
 - 👀 I’m interested in innovation
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on innovative enterprising
 - 📫 How to reach me FECHNOLOGIES_D(Twitter)
 
